@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="07619829-8c67-415e-964d-02995a828d86" name="peter" url="http://bootcamp-coders.cnm.edu/~emartinez394">
-        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/emartinez394/public_html/peter" accessType="SFTP">
+      <webServer id="07619829-8c67-415e-964d-02995a828d86" name="peter" url="http://bootcamp-coders.cnm.edu/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/emartinez394/public_html/peter" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
